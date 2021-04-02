@@ -1,6 +1,6 @@
-function mOverImg(id, img){
+function mouseOverImg(id, img){
     document.getElementById(id).src=img;
 }
-function mOutImg(id, img){
+function mouseOutImg(id, img){
     document.getElementById(id).src=img;
 }
